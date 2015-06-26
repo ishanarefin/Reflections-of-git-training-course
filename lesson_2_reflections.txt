@@ -1,1 +1,5 @@
 i have to use git int to initialize new git reporsitory 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I think in staging ara we can define what to commit
